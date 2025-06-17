@@ -1,37 +1,6 @@
 <!DOCTYPE html>
 <html lang="vi">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Chính Sách Bảo Mật | G88 No Hu 2025</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.7;
-      padding: 20px;
-      background-color: #f9f9f9;
-      color: #333;
-      max-width: 960px;
-      margin: auto;
-    }
-    h1, h2 {
-      color: #d62828;
-    }
-    h1 {
-      font-size: 28px;
-      margin-bottom: 20px;
-    }
-    h2 {
-      font-size: 22px;
-      margin-top: 30px;
-    }
-    p {
-      margin-bottom: 15px;
-    }
-    ul {
-      margin-left: 20px;
-    }
-  </style>
 </head>
 <body>
   <h1>Chính sách bảo mật</h1>
