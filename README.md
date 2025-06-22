@@ -4,7 +4,7 @@
 <body>
   <h1>Chính sách bảo mật</h1>
 
-  <p>Vui lòng đọc kỹ trước khi bạn tiến hành tải, cài đặt, sử dụng tất cả hoặc bất kỳ phần nào của Ứng dụng (bao gồm nhưng không giới hạn phần mềm, các file và các tài liệu liên quan) hoặc sử dụng các dịch vụ do <strong>G88 2025</strong> cung cấp để kết nối đến Ứng Dụng. Bạn chấp thuận và đồng ý bị ràng buộc bởi các quy định và điều kiện trong văn bản này khi thực hiện các thao tác trên đây.</p>
+  <p>Vui lòng đọc kỹ trước khi bạn tiến hành tải, cài đặt, sử dụng tất cả hoặc bất kỳ phần nào của Ứng dụng (bao gồm nhưng không giới hạn phần mềm, các file và các tài liệu liên quan) hoặc sử dụng các dịch vụ do <strong>Thần Quay 247</strong> cung cấp để kết nối đến Ứng Dụng. Bạn chấp thuận và đồng ý bị ràng buộc bởi các quy định và điều kiện trong văn bản này khi thực hiện các thao tác trên đây.</p>
 
   <p>Trường hợp bạn không đồng ý với bất kỳ điều nào của chúng tôi (phiên bản này và các phiên bản cập nhật), bạn vui lòng không tải, cài đặt, sử dụng Ứng dụng hoặc tháo gỡ Ứng Dụng ra khỏi thiết bị di động của bạn.</p>
 
@@ -15,10 +15,10 @@
   <p>Chúng tôi không cố ý thu thập thông tin của trẻ em dưới 18 tuổi. Nếu phát hiện, chúng tôi sẽ xóa thông tin ngay lập tức. Phụ huynh có thể liên hệ với chúng tôi để xử lý.</p>
 
   <h2>Quyền sở hữu ứng dụng</h2>
-  <p>Ứng dụng được phát triển và sở hữu bởi G88 2025. Mọi quyền sở hữu trí tuệ thuộc về chúng tôi. Mọi hành vi sao chép, tái sử dụng mà không có sự đồng ý bằng văn bản là vi phạm pháp luật.</p>
+  <p>Ứng dụng được phát triển và sở hữu bởi Thần quay 247. Mọi quyền sở hữu trí tuệ thuộc về chúng tôi. Mọi hành vi sao chép, tái sử dụng mà không có sự đồng ý bằng văn bản là vi phạm pháp luật.</p>
 
   <h2>Tài khoản</h2>
-  <p>Bạn cần tạo tài khoản để sử dụng ứng dụng. Mọi thông tin cung cấp phải chính xác. G88 không chịu trách nhiệm với thông tin sai lệch.</p>
+  <p>Bạn cần tạo tài khoản để sử dụng ứng dụng. Mọi thông tin cung cấp phải chính xác. Thần quay 247 không chịu trách nhiệm với thông tin sai lệch.</p>
 
   <h2>Quyền lợi và trách nhiệm</h2>
   <p>Bạn không được phép:</p>
@@ -50,7 +50,7 @@
   <p>Chúng tôi sử dụng Firebase và Facebook Meta để phân tích hành vi người dùng nhằm cải thiện sản phẩm.</p>
 
   <h2>Phí và các khoản thu</h2>
-  <p>G88 2025 cam kết không thu bất kỳ khoản phí nào cho các dịch vụ cơ bản hiện tại.</p>
+  <p>Thần quây 247 cam kết không thu bất kỳ khoản phí nào cho các dịch vụ cơ bản hiện tại.</p>
 
   <h2>Liên hệ</h2>
   <p>Nếu bạn có bất kỳ câu hỏi hoặc phản hồi nào, vui lòng liên hệ với chúng tôi để được hỗ trợ sớm nhất.</p>
